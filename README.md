@@ -1,8 +1,8 @@
-OBS.: Este projeto ainda precisa passar por melhorias significativas que foram aprendidas após a conclusão inicial. Ainda falta implementar atualização de dados e exclusão de dados que persiste na tela de periodo.
+OBS.: Este projeto ainda precisa passar por melhorias significativas que foram aprendidas após a conclusão inicial. Ainda falta implementar atualização de dados e exclusão de dados que persiste na tela de período.
 <h1> Controle Financeiro em C# e windows forms </h1>
 Status: Irei atualizar todo projeto utilizando conceito de POO em breve. 🛠️
 <br></br>
-Iniciei este projeto no início dos meus estudos com o objetivo de criar um relatório mais estavel e completo para o meu controle financeiro, buscando assim me libertar do uso constante de planilhas no Excel.
+Desenvolvi este projeto no início dos meus estudos com o objetivo de criar um relatório mais estavel e completo para o meu controle financeiro, buscando assim me libertar do uso constante de planilhas no Excel.
 <h2>Estrutura do Projeto</h2>
 O sistema é composto por três funções principais:
 
@@ -14,14 +14,14 @@ O sistema é composto por três funções principais:
 <ul>
   <li>Permite a adição de uma entrada como pagamento, serviço de renda extra entre outros.</li>
 </ul>
-<h3>Consulta por periodo</h3>
+<h3>Consulta por período</h3>
 <ul>
   <li>Permite realizar consulta dos dados registrados em dividas e entradas.</li>
 </ul>
 <h2>Instalação e Configuração</h2>
 Siga os passos abaixo para configurar o projeto em sua máquina local:
 <h3>Clonar o Repositório</h3>
-  git clone https://github.com/LAOSTI/ControleDeEstoque.Net
+  git clone https://github.com/LAOSTI/ControleFinanceiro.git
 <h3>Configurar o Banco de Dados</h3>
   <ul>
     <li>Crie um banco de dados com o nome "controlefinanceiro".</li>
