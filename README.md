@@ -1,4 +1,4 @@
-OBS.: Este projeto ainda precisa passar por melhorias significativas que foram identificadas após a conclusão inicial. Ainda falta implementar atualização de dados e exclusão de dados que persiste na tela de periodo.
+OBS.: Este projeto ainda precisa passar por melhorias significativas que foram aprendidas após a conclusão inicial. Ainda falta implementar atualização de dados e exclusão de dados que persiste na tela de periodo.
 <h1> Controle Financeiro em C# e windows forms </h1>
 Status: Irei atualizar todo projeto utilizando conceito de POO em breve. 🛠️
 <br></br>
