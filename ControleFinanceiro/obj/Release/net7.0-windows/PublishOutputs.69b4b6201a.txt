@@ -1,0 +1,16 @@
+C:\Users\ALBERTO\Desktop\ControleFinanceiro.exe
+C:\Users\ALBERTO\Desktop\ControleFinanceiro.dll
+C:\Users\ALBERTO\Desktop\ControleFinanceiro.deps.json
+C:\Users\ALBERTO\Desktop\ControleFinanceiro.runtimeconfig.json
+C:\Users\ALBERTO\Desktop\ControleFinanceiro.pdb
+C:\Users\ALBERTO\Desktop\Google.Protobuf.dll
+C:\Users\ALBERTO\Desktop\K4os.Compression.LZ4.dll
+C:\Users\ALBERTO\Desktop\K4os.Compression.LZ4.Streams.dll
+C:\Users\ALBERTO\Desktop\K4os.Hash.xxHash.dll
+C:\Users\ALBERTO\Desktop\MySql.Data.dll
+C:\Users\ALBERTO\Desktop\BouncyCastle.Crypto.dll
+C:\Users\ALBERTO\Desktop\runtimes\win-x64\native\comerr64.dll
+C:\Users\ALBERTO\Desktop\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ALBERTO\Desktop\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ALBERTO\Desktop\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ALBERTO\Desktop\runtimes\win-x64\native\krbcc64.dll
